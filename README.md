@@ -1,4 +1,4 @@
-# Hi, I am Roh00t 👨🏼‍💻
+# Hi, I am Rohit Panda 👨🏼‍💻
 
 Passionate software dev and engineer with a focus on create web, desktop applications along with microservices. I'm frequently contributing to Open Source here on GitHub.
 
