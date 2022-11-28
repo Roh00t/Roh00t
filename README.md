@@ -24,7 +24,7 @@ Strong technical and functional leadership skills capable of leading multiple te
 <code><img height="20" alt="php" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/php/php.png"></code>
 <code><img height="20" alt="laravel" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
 <code><img height="20" alt="aws" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>    
-<code><img height="20" alt="golang" src="[https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/golang/golang.png](https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F0%2F05%2FGo_Logo_Blue.svg%2F1200px-Go_Logo_Blue.svg.png&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FGo_(programming_language)&tbnid=XOU6IlN5endOyM&vet=12ahUKEwifrJKosdD7AhWkgGMGHXbKCfcQMygCegUIARDjAQ..i&docid=eHsQznKDrM63-M&w=1200&h=451&q=golang%20&ved=2ahUKEwifrJKosdD7AhWkgGMGHXbKCfcQMygCegUIARDjAQ)"></code>    
+ 
 
 - 🔭 Currently working on creating microservices using GoLang & creatings apps using Swift
 - 🌱 Learning anything I can get my hands on!
