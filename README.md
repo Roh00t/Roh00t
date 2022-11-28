@@ -13,11 +13,6 @@ Hands on Skills in Scrum, Embedded tech and Server Administration, C#, Dart, Pyt
 
 Strong technical and functional leadership skills capable of leading multiple teams with efficient Agile Scrum framework, multiples of headcount sizes of 5 to 10 consisting of diverse engineering/software disciplines (Composite or Feature Teams) to deliver holistic products with high quality.
 
-- 🔭 Currently working on creating microservices using GoLang & creatings apps using Swift
-- 🌱 Learning anything I can get my hands on!
-- 👯‍♀️ Always looking forward and love to collaborate on exciting projects
-- 📫 Let's connect - [LinkedIn](https://www.linkedin.com/in/rohit-panda/) | [GitConnected](https://gitconnected.com/roh00t)
-
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -29,7 +24,13 @@ Strong technical and functional leadership skills capable of leading multiple te
 <code><img height="20" alt="php" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/php/php.png"></code>
 <code><img height="20" alt="laravel" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
 <code><img height="20" alt="aws" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>    
-<code><img height="20" alt="go" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>    
+<code><img height="20" alt="golang" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/golang/golang.png"></code>    
+
+- 🔭 Currently working on creating microservices using GoLang & creatings apps using Swift
+- 🌱 Learning anything I can get my hands on!
+- 👯‍♀️ Always looking forward and love to collaborate on exciting projects
+- 📫 Let's connect - [LinkedIn](https://www.linkedin.com/in/rohit-panda/) | [GitConnected](https://gitconnected.com/roh00t)
+
     
 
 
