@@ -60,7 +60,7 @@ class About extends Me
         ];
     }
 
-    public function getFutureGoal(): string
+    public function getFutureGoal(): array
     {
         return [ 'To contribute to open source.',
                  'Learning Data Structures and Algorithms.',
