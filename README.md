@@ -10,12 +10,37 @@ class About extends Me
 {
     public function getCurrentWorkplace(): array
     {
-        return [
             'workplace' => [
                   'company' => 'Singapore Police Force',
                 'position' => 'Police Officer'         
             ]
         ];
+    }
+    public function getEducation(): array
+    {
+            return [
+                'Higher Education' => [
+                         'Polytechnic' => 'Nanyang Polytechnic',
+                     'Specialization' => 'Computer Software Application'
+                    ],
+                'Secondary Education' => [
+                         'School' => 'Bukit View Secondary',
+                       'Specialization' => 'Ordinary Level Cambridge Examination'
+                 ],
+                 'Primary Education' => [
+                         'School' => 'Bukit View Primary',
+                       'Specialization' => 'Primary School Leaving Examination'
+                 ];
+    }
+
+    public function getPastWorkExperiences(): array
+    {
+            'workplace' => [
+                  'company' => 'IBM',
+                'position' => 'Junior Software Developer'
+                  'company' => 'Sembcorp Industries',
+                'position' => 'IT Operations Intern'
+        ],
     }
 
     public function getDailyKnowledge(): array
@@ -37,10 +62,11 @@ class About extends Me
 
     public function getFutureGoal(): string
     {
-        return 'To contribute to open source.';
-        return 'Learning Data Structures and Algorithms.';
-        return 'Computer Science';
-        return 'Make Cool Projects';
+        return [ 'To contribute to open source.',
+                 'Learning Data Structures and Algorithms.',
+                 'Computer Science',
+                 'Make Cool Projects'
+               ];
         
     }
 }
