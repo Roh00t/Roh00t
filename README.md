@@ -17,3 +17,45 @@ Strong technical and functional leadership skills capable of leading multiple te
 - 🌱 Learning anything I can get my hands on!
 - 👯‍♀️ Always looking forward and love to collaborate on exciting projects
 - 📫 Let's connect - [LinkedIn](https://www.linkedin.com/in/rohit-panda/) | [GitConnected](https://gitconnected.com/roh00t)
+
+
+```php
+<?php
+
+namespace Rohit Panda;
+
+class About extends Me
+{
+    public function getCurrentWorkplace(): array
+    {
+        return [
+            'workplace' => [
+                  'company' => 'Singapore Police Force',
+                'position' => 'Police Officer'         
+            ]
+        ];
+    }
+
+    public function getDailyKnowledge(): array
+    {
+        return [
+            Php::class,
+            Javascript::class,
+            Laravel::class,
+            Vuejs::class,
+            Angular::class,
+            ReactNative::class,
+            TailwindCss::class,
+            Aws::class,
+            Python::def,
+            Flutter::main,
+            Swift::main
+        ];
+    }
+
+    public function getFutureGoal(): string
+    {
+        return 'To contribute to open source.';
+    }
+}
+```
