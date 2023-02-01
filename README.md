@@ -100,7 +100,7 @@ Strong technical and functional leadership skills capable of leading multiple te
 <code><img height="20" alt="aws" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>    
  
 
-- 🔭 Currently working on creating microservices using GoLang & creatings apps using Swift
+- 🔭 Currently working on obtaining CompTIA Security+ Certification
 - 🌱 Learning anything I can get my hands on!
 - 👯‍♀️ Always looking forward and love to collaborate on exciting projects
 - 📫 Let's connect - [LinkedIn](https://www.linkedin.com/in/rohit-panda/) | [GitConnected](https://gitconnected.com/roh00t)
