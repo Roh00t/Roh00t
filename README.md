@@ -20,6 +20,10 @@ class About extends Me
     {
             return [
                 'Higher Education' => [
+                         'University' => 'University of Wollongong',
+                     'Specialization' => 'Digital System Security & AI Big Data'
+                    ],
+                'Higher Education' => [
                          'Polytechnic' => 'Nanyang Polytechnic',
                      'Specialization' => 'Computer Software Application'
                     ],
