@@ -6,7 +6,7 @@
 
 ---
 
-### 🧠 Profile Summary
+### Profile Summary
 
 - I'm a Computer Science student at the **University of Wollongong (SIM)**, majoring in **Digital Systems Security** and **AI & Big Data**, graduating Dec 2025.
 - Proven track record supporting national IT deployments (Accenture, IBM) and building cybersecurity solutions in hackathons and personal projects.
@@ -14,7 +14,7 @@
 
 ---
 
-### 🔗 Connect with Me
+### Connect with Me
 
 - 📫 [panda001@mymail.sim.edu.sg](mailto:panda001@mymail.sim.edu.sg)
 - 💼 [LinkedIn](https://www.linkedin.com/in/rohit-panda/)
@@ -22,7 +22,7 @@
 
 ---
 
-### 🛠️ Technical Skills
+### Technical Skills
 
 **Programming Languages:**  
 C++, Python, Java, SQL, HTML, CSS
@@ -44,7 +44,7 @@ Radiant, Excel, Git, Power BI, SDLC, Agile, CI/CD, Storyboarding
 
 ---
 
-### 💻 Projects
+### Projects
 
 **[PassMan](https://github.com/Roh00t/PersonalProjects/tree/main/PassMan)** – *Jul 2025 – Present*  
 Password manager supporting AES encryption, login/logout, and over 10,000 entry scalability.
@@ -60,7 +60,7 @@ Built a supervised ML-based Intrusion Detection System using Scapy and packet cl
 
 ---
 
-### 🧪 CTF & Hackathon Engagement
+### CTF & Hackathon Engagement
 
 **CTF Events (Solo/Team Lead):**
 - SSMCTF 2025 – Team Lead  
@@ -76,7 +76,7 @@ Built a supervised ML-based Intrusion Detection System using Scapy and packet cl
 
 ---
 
-### 👥 Memberships
+### Memberships
 
 **Singapore Computer Society**  
 - Member, AiSP Division 0, NOHATS  
@@ -84,7 +84,7 @@ Built a supervised ML-based Intrusion Detection System using Scapy and packet cl
 
 ---
 
-### 📜 Additional Learnings & Certifications
+### Additional Learnings & Certifications
 - Professional Scrum Master 1
 - Cryptography & Hashing (Python/Java)  
 - Computer Forensics Fundamentals  
@@ -95,7 +95,7 @@ Built a supervised ML-based Intrusion Detection System using Scapy and packet cl
 
 ---
 
-### 🧭 Experience
+### Experience
 
 **Accenture – Quality Engineer/Tester** *(Jun 2025 – Aug 2025)*  
 - Validated 100+ bugs in NBS system rollouts for national healthcare  
@@ -116,11 +116,11 @@ Built a supervised ML-based Intrusion Detection System using Scapy and packet cl
 
 ---
 
-### 💡 Hobbies & Interests
+### Hobbies & Interests
 
-- 👨‍💻 Capture The Flag (CTF), Web Hacking, Building Projects  
-- 🚴 Cycling, 🏃 Jogging  
-- 🧠 Proficient in Flask, SQL, and Secure App Dev
+- Capture The Flag (CTF), Web Hacking, Building Projects  
+- Cycling, 🏃 Jogging  
+- Proficient in Flask, SQL, and Secure App Dev
 
 ---
 
