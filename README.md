@@ -46,16 +46,16 @@ Radiant, Excel, Git, Power BI, SDLC, Agile, CI/CD, Storyboarding
 
 ### 💻 Projects
 
-**[PassMan](https://github.com/Roh00t/PassMan)** – *Jul 2025 – Present*  
+**[PassMan](https://github.com/Roh00t/PersonalProjects/PassMan)** – *Jul 2025 – Present*  
 Password manager supporting AES encryption, login/logout, and over 10,000 entry scalability.
 
-**[Malware Detection with AI](https://github.com/Roh00t/MalwareDetectionAI)** – *Jun 2025*  
+**[Malware Detection with AI](https://github.com/Roh00t/PersonalProjects/tree/main/Malware_Detection_With_AI)** – *Jun 2025*  
 Built malware detection pipeline using Random Forest and XGBoost on binary features from labeled datasets.
 
-**[SpotifySecurityExt](https://github.com/Roh00t/SpotifySecurityExt)** – *Mar 2025*  
+**[SpotifySecurityExt](https://github.com/Roh00t/PersonalProjects/tree/main/SpotifySecurityExt)** – *Mar 2025*  
 Scans Spotify ad URLs using the VirusTotal API; React frontend with threat result display and local caching.
 
-**AI IDS Project** – *Dec 2024*  
+**[AI IDS Project](https://github.com/Roh00t/PersonalProjects/tree/main/AI_IDS_Project)** – *Dec 2024*  
 Built a supervised ML-based Intrusion Detection System using Scapy and packet classification for real-time threat detection.
 
 ---
