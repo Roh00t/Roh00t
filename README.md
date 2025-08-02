@@ -46,7 +46,7 @@ Radiant, Excel, Git, Power BI, SDLC, Agile, CI/CD, Storyboarding
 
 ### 💻 Projects
 
-**[PassMan](https://github.com/Roh00t/PersonalProjects/PassMan)** – *Jul 2025 – Present*  
+**[PassMan](https://github.com/Roh00t/PersonalProjects/tree/main/PassMan)** – *Jul 2025 – Present*  
 Password manager supporting AES encryption, login/logout, and over 10,000 entry scalability.
 
 **[Malware Detection with AI](https://github.com/Roh00t/PersonalProjects/tree/main/Malware_Detection_With_AI)** – *Jun 2025*  
