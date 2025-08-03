@@ -16,9 +16,9 @@
 
 ### Connect with Me
 
-- 📫 [panda001@mymail.sim.edu.sg](mailto:panda001@mymail.sim.edu.sg)
-- 💼 [LinkedIn](https://www.linkedin.com/in/rohit-panda/)
-- 🧠 [GitHub](https://github.com/Roh00t)
+-  [panda001@mymail.sim.edu.sg](mailto:panda001@mymail.sim.edu.sg)
+-  [LinkedIn](https://www.linkedin.com/in/rohit-panda/)
+-  [GitHub](https://github.com/Roh00t)
 
 ---
 
@@ -128,7 +128,7 @@ Built a supervised ML-based Intrusion Detection System using Scapy and packet cl
 ### Hobbies & Interests
 
 - Capture The Flag (CTF), Web Hacking, Building Projects  
-- Cycling, 🏃 Jogging  
+- Cycling, Jogging  
 - Proficient in Flask, SQL, and Secure App Dev
 
 ---
