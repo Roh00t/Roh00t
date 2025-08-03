@@ -46,8 +46,17 @@ Radiant, Excel, Git, Power BI, SDLC, Agile, CI/CD, Storyboarding
 
 ### Projects
 
-**[PassMan](https://github.com/Roh00t/PersonalProjects/tree/main/PassMan)** – *Jul 2025 – Present*  
-Password manager supporting AES encryption, login/logout, and over 10,000 entry scalability.
+**[Project VapeWatchSG](https://github.com/Roh00t/PersonalProjects/blob/main/VapeWatchSG/readme.md)** – *Nov 2025 – Dec 2025*  
+VapeWatch SG is a personal project inspired by a Straits Times article on the Health Sciences Authority's initiative to acquire a cyber-surveillance tool targeting illegal vape activity in Singapore.
+
+**[Project Thretica](https://github.com/Roh00t/PersonalProjects/blob/main/Project%20Thretica/readme.md)** – *Oct 2025 – Dec 2025*  
+Thretica is an advanced cybersecurity simulation platform that models the decision-making behaviour of Advanced Persistent Threat (APT) actors. By integrating behavioural science, cognitive modelling, and AI-driven attack logic, Thretica helps security teams anticipate, visualise, and respond to sophisticated threat actor strategies in real-time.
+
+**[Project TrustTrack](https://github.com/Roh00t/PersonalProjects/blob/main/TrustTrack_WPHDigital/readme.md)** – *Sept 2025 – Dec 2025*  
+TrustTrack is a privacy-first, AI-powered time tracking tool designed for mobile-first professionals and field workers. It enables users to log time using natural voice commands without compromising privacy or morale.
+
+**PassMan** – *Sept 2025 – Dec 2025*  
+Password manager supporting AES encryption, login/logout, and over 10,000 entries.
 
 **[Malware Detection with AI](https://github.com/Roh00t/PersonalProjects/tree/main/Malware_Detection_With_AI)** – *Jun 2025*  
 Built malware detection pipeline using Random Forest and XGBoost on binary features from labeled datasets.
