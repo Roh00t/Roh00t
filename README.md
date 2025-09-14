@@ -105,6 +105,11 @@ Built a supervised ML-based Intrusion Detection System using Scapy and packet cl
 ---
 
 ### Experience
+**SingTel – Security Analyst** *(Sept 2025 – Present)*  
+- Monitor and triage real-time security alerts across national infrastructure.
+- Investigate and escalate incidents using SIEM and IDS tools.
+- Coordinate with incident response teams to contain threats and harden defences.
+
 
 **Accenture – Quality Engineer/Tester** *(Jun 2025 – Aug 2025)*  
 - Validated 100+ bugs in NBS system rollouts for national healthcare  
