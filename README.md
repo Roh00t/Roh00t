@@ -45,8 +45,8 @@ Radiant, Excel, Git, Power BI, SDLC, Agile, CI/CD, Storyboarding
 ---
 
 ### Projects
-**[Project Safety]() – *Dec 2025 – Dec 2025*  
-More Details coming soon
+**[Project Safety](https://safeops.figma.site)** – *Nov 2025 – Dec 2025*  
+A Risk Assessment Management Prototype on Figma, Create RAWs, and Manage Certifications and many more.
 
 **[Project Sentinel](https://frontend-production-32cc.up.railway.app/)** – *Jul 2025 – Dec 2025*  
 Project Sentinel is a Web Dash IDS Dashboard that analyses and categorises raw logs from 3 IDSes.
