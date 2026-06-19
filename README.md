@@ -16,7 +16,6 @@
 
 ### Connect with Me
 
--  [panda001@mymail.sim.edu.sg](mailto:panda001@mymail.sim.edu.sg)
 -  [LinkedIn](https://www.linkedin.com/in/rohit-panda/)
 -  [GitHub](https://github.com/Roh00t)
 
