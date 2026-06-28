@@ -34,8 +34,8 @@
 Location  : Singapore
 Current   : Singtel SOC (Security Analyst, contract ended June 2026)
 Next      : NTU MSc Enterprise AI → Aug 2026
-Built     : Production malware detection AI | Akamai WAF ops | SIEM incident response
-Shipped   : ClauseGuard | Gavin-AI | PES | ImplAI | EDDA (hackathon)
+Building  : ImplAI
+Shipped   : ClauseGuard | Gavin-AI | PES | EDDA (hackathon)
 Background: SPF Trainer (Jurong Div) | IBM | Accenture | MHA Innovation Award (SETS)
 Interests : Security × AI intersection | Healthcare tech | CTF | Running
 ```
@@ -87,7 +87,7 @@ Interests : Security × AI intersection | Healthcare tech | CTF | Running
 ## 💼 Experience
 
 **🔵 Singtel — Security Analyst** `Sept 2025 – June 2026`  
-Monitoring and triage using Microsoft Sentinel, ArcSight ESM, Trellix EDR. Akamai WAF maintenance for enterprise clients. Co-managed DDoS scrubbing via Singtel MTR model. Built malware detection AI that reduced manual triage workload for the team.
+Monitoring and triage using Microsoft Sentinel, ArcSight ESM, Trellix EDR. Akamai WAF maintenance for enterprise clients. Co-managed DDoS scrubbing via Singtel MTR model. Management of Web Orion for WDMS.
 
 **⚕️ Accenture — Quality Engineer** `Jun 2025 – Jul 2025`  
 Validated National Billing System (NBS) rollout across 20+ Singapore healthcare clusters.
