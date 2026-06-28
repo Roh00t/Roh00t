@@ -1,136 +1,174 @@
-<h1 align="center">Rohit Panda</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a1628,100:001233&height=200&section=header&text=Rohit%20Panda&fontSize=52&fontColor=38BDF8&animation=fadeIn&fontAlignY=36&desc=Security%20Analyst%20%7C%20AI%20Builder%20%7C%20Maker&descAlignY=60&descSize=18&descColor=64748B" width="100%"/>
 
 <p align="center">
-  <em>Cybersecurity builder. CTF competitor. Full-stack learner. Your next digital defender.</em>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&multiline=false&random=false&width=620&lines=Security+Analyst+%40+Singtel+SOC+(Sept+2025+%E2%80%93+June+2026);AI+Builder+%7C+Shipped+to+Production;CTF+Competitor+%7C+6x+Hackathon+Team+Lead;MSc+Enterprise+AI+%40+NTU+(Aug+2026);Building%3A+ClauseGuard+%E2%80%A2+ImplAI+%E2%80%A2+EDDA" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rohitpanda">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Roh00t">
+    <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:pandarohit05@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/6_Hackathons-Team_Lead-38BDF8?style=flat-square"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/5+_CTF_Events-Competitor-F472B6?style=flat-square"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/SETS-MHA_Innovation_Award_🏆-F59E0B?style=flat-square"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Production_AI-Singtel_SOC-22C55E?style=flat-square"/>
 </p>
 
 ---
 
-### Profile Summary
+## `$ whoami`
 
-- I'm a Computer Science student at the **University of Wollongong (SIM)**, majoring in **Digital Systems Security** and **AI & Big Data**, graduating Dec 2025.
-- Proven track record supporting national IT deployments (Accenture, IBM) and building cybersecurity solutions in hackathons and personal projects.
-- Experienced in **network security, malware detection**, and **secure web development**, with a focus on real-world application.
-
----
-
-### Connect with Me
-
--  [LinkedIn](https://www.linkedin.com/in/rohit-panda/)
--  [GitHub](https://github.com/Roh00t)
-
----
-
-### Technical Skills
-
-**Programming Languages:**  
-C++, Python, Java, SQL, HTML, CSS
-
-**Cybersecurity Tools:**  
-BurpSuite, Wireshark, GDB, Suricata, Scapy
-
-**AI & Data Science:**  
-pandas, NumPy, scikit-learn, XGBoost, matplotlib, seaborn, OpenAI API, HuggingFace Transformers
-
-**Web Development:**  
-React, Flask, Node.js
-
-**Databases:**  
-MySQL, PostgreSQL, SQLite
-
-**Tools & Other Skills:**  
-Radiant, Excel, Git, Power BI, SDLC, Agile, CI/CD, Storyboarding
+```
+Location  : Singapore
+Current   : Singtel SOC (Security Analyst, contract ended June 2026)
+Next      : NTU MSc Enterprise AI → Aug 2026
+Built     : Production malware detection AI | Akamai WAF ops | SIEM incident response
+Shipped   : ClauseGuard | Gavin-AI | PES | ImplAI | EDDA (hackathon)
+Background: SPF Trainer (Jurong Div) | IBM | Accenture | MHA Innovation Award (SETS)
+Interests : Security × AI intersection | Healthcare tech | CTF | Running
+```
 
 ---
 
-### Projects
-**[Project Safety](https://safeops.figma.site)** – *Nov 2025 – Dec 2025*  
-A Risk Assessment Management Prototype on Figma, Create RAWs, and Manage Certifications and many more.
+## 🛠️ Tech Stack
 
-**[Project Sentinel](https://frontend-production-32cc.up.railway.app/)** – *Jul 2025 – Dec 2025*  
-Project Sentinel is a Web Dash IDS Dashboard that analyses and categorises raw logs from 3 IDSes.
+**AI / ML**
 
-**[PassMan](https://github.com/Roh00t/PersonalProjects/tree/main/Passman)** – *Sept 2025 – Dec 2025*  
-Password manager supporting AES encryption, login/logout, and over 10,000 entries.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
-**[Malware Detection with AI](https://github.com/Roh00t/PersonalProjects/tree/main/Malware_Detection_With_AI)** – *Jun 2025*  
-Built malware detection pipeline using Random Forest and XGBoost on binary features from labeled datasets.
+**Security Operations**
 
-**[SpotifySecurityExt](https://github.com/Roh00t/PersonalProjects/tree/main/SpotifySecurityExt)** – *Mar 2025*  
-Scans Spotify ad URLs using the VirusTotal API; React frontend with threat result display and local caching.
+![Microsoft Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
+![Palo Alto](https://img.shields.io/badge/Palo_Alto_Networks-FA582D?style=flat-square&logo=palo-alto-networks&logoColor=white)
+![Akamai WAF](https://img.shields.io/badge/Akamai_WAF-009BDE?style=flat-square&logo=akamai&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=flat-square&logo=hackthebox&logoColor=black)
 
-**[AI IDS Project](https://github.com/Roh00t/PersonalProjects/tree/main/AI_IDS_Project)** – *Dec 2024*  
-Built a supervised ML-based Intrusion Detection System using Scapy and packet classification for real-time threat detection.
+**Development**
 
----
-
-### CTF & Hackathon Engagement
-
-**CTF Events (Solo/Team Lead):**
-- SSMCTF 2025 – Team Lead  
-- Blahaj CTF 2024, 2025 – Solo  
-- LearnCTF – Solo  
-- Kaspersky CTF 2025 – Team Lead
-
-**Hackathons:**
-- Project Altair Hackathon 2025 – Team Lead  
-- SIMGE Microsoft Hackathon 2025 – Team Lead  
-- DELL SCDF Innovation Challenge 2025 – Team Lead  
-- SGHackitRx Hackathon 2025 – Team Lead
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-### Memberships
+## 🚀 Projects
 
-**Singapore Computer Society**  
-- Member, AiSP Division 0, NOHATS  
-- Attended StandCon, Web Pentesting, Bug Bounty, Evasion Techniques
-
----
-
-### Additional Learnings & Certifications
-- Professional Scrum Master 1
-- Cryptography & Hashing (Python/Java)  
-- Computer Forensics Fundamentals  
-- The Complete SQL Bootcamp  
-- AWS Services Fundamentals  
-- Introduction to ML  
-- HackTheBox, CS50, Splunk Academy, Google Cloud Security
-
----
-
-### Experience
-**SingTel – Security Analyst** *(Sept 2025 – Present)*  
-- Monitor and triage real-time security alerts across national infrastructure.
-- Investigate and escalate incidents using SIEM and IDS tools.
-- Coordinate with incident response teams to contain threats and harden defences.
-
-
-**Accenture – Quality Engineer/Tester** *(Jun 2025 – Aug 2025)*  
-- Validated 100+ bugs in NBS system rollouts for national healthcare  
-- Collaborated across 20+ healthcare clusters to streamline resolution workflows
-
-**IBM – Desktop Engineer** *(Feb 2022 – Jul 2022)*  
-- Deployed NGEMR modules for hospitals, resolved incident reports  
-- Led 10-person support team ensuring continuity across clinical operations
-
-**Sembcorp – IT Ops Intern** *(Mar 2021 – Aug 2021)*  
-- Created wireframes, storyboards, and community board games  
-- Co-authored environmental reports with NCs and GRCs
-
-**Singapore Police Force – Trainer (Jurong Division)** *(Jul 2022 – May 2024)*  
-- Built training systems with Python & computer vision  
-- Streamlined operations via RPA (~60% reduction)  
-- Earned Outstanding PNSF and Commissioner’s Award
+| | Project | Description | Stack | Status |
+|--|---------|-------------|-------|--------|
+| 🤖 | **[Gavin-AI](https://roh00t.github.io/Gavin-AI/)** | Self-hosted multi-tenant AI agent workspace — run isolated agent environments with profiles, tools, and channels per tenant | Python, AI Agents, Multi-tenant | ✅ Live |
+| 📜 | **[ClauseGuard](https://clauseguard.onrender.com)** | AI employment contract analyser — clause-level risk scoring on Singapore employment contracts, built at AIForge SMU 2026 | FastAPI, Supabase, TokenRouter | ✅ Live |
+| 💪 | **[PES](https://roh00t.github.io/PES/)** | Portable IPPT trainer using MediaPipe computer vision — spiritual successor to SETS, fully client-side with no data leaving device | MediaPipe, JS, Web APIs | ✅ Live |
+| 🤖 | **[ImplAI](#)** | AI agent automation startup — WhatsApp lead qualification, workflow automation, and staff training for SMEs | Python, LLMs, ManyChat | 🚀 Building |
+| 🕵️ | **[EDDA](https://github.com/Roh00t/EDDA)** | Employer due-diligence agent for job seekers — surfaces company red flags before you sign an offer (SupCareers × OpenAI Hackathon 2026) | AI Agents, Python | 🏆 Hackathon |
+| 🛡️ | **[Project Sentinel](https://frontend-production-32cc.up.railway.app/)** | Web-based IDS dashboard — aggregates and classifies raw logs from 3 intrusion detection systems | React, Node, Railway | ✅ Live |
+| ⚠️ | **[Project Safety](https://safeops.figma.site)** | Risk Assessment Management prototype — RAW creation, certification tracking | Figma | ✅ Live |
+| 🔒 | **[PassMan](https://github.com/Roh00t/PersonalProjects/tree/main/Passman)** | AES-encrypted password manager with support for 10,000+ entries | Python | ✅ Built |
+| 🦠 | **[Malware Detection AI](https://github.com/Roh00t/PersonalProjects/tree/main/Malware_Detection_With_AI)** | Binary malware classification pipeline — Random Forest + XGBoost on PE file features | scikit-learn, XGBoost | ✅ Built |
+| 🎵 | **[SpotifySecurityExt](https://github.com/Roh00t/PersonalProjects/tree/main/SpotifySecurityExt)** | Scans Spotify ad URLs via VirusTotal API — React frontend with threat result display | React, VirusTotal API | ✅ Built |
+| 🤖 | **[AI IDS](https://github.com/Roh00t/PersonalProjects/tree/main/AI_IDS_Project)** | Supervised ML IDS using Scapy — real-time packet classification for threat detection | Scapy, scikit-learn | ✅ Built |
 
 ---
 
-### Hobbies & Interests
+## 💼 Experience
 
-- Capture The Flag (CTF), Web Hacking, Building Projects  
-- Cycling, Jogging  
-- Proficient in Flask, SQL, and Secure App Dev
+**🔵 Singtel — Security Analyst** `Sept 2025 – June 2026`  
+Monitoring and triage using Microsoft Sentinel, ArcSight ESM, Trellix EDR. Akamai WAF maintenance for enterprise clients. Co-managed DDoS scrubbing via Singtel MTR model. Built malware detection AI that reduced manual triage workload for the team.
+
+**⚕️ Accenture — Quality Engineer** `Jun 2025 – Jul 2025`  
+Validated National Billing System (NBS) rollout across 20+ Singapore healthcare clusters.
+
+**🏥 IBM — Desktop Engineer** `Feb 2022 – Jul 2022`  
+Led 10-person team deploying NGEMR and Electronic Collection Modules for hospitals in collaboration with Synapxe.
+
+**🚔 Singapore Police Force — Trainer, Jurong Division** `Jul 2022 – May 2024`  
+Built SETS (Static Exercise Training System) using Python + computer vision → **MHA Innovation Award**. Developed RPA automation reducing repetitive workloads by ~60%. Commissioner's Award recipient.
 
 ---
 
-> *“In a world of zero-days, be the patch.”*
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Roh00t&show_icons=true&theme=github_dark&border_color=38BDF8&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8&hide_border=false&rank_icon=github&include_all_commits=true" height="170"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roh00t&layout=compact&theme=github_dark&border_color=38BDF8&title_color=38BDF8&text_color=94A3B8&hide_border=false&langs_count=8" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Roh00t&theme=dark&border=38BDF8&stroke=38BDF8&ring=38BDF8&fire=F472B6&currStreakLabel=38BDF8&dates=64748B&background=0d1117" height="155"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Roh00t&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1&column=7"/>
+</p>
+
+---
+
+## 🏁 Hackathons & CTF
+
+<details>
+<summary><b>Expand full list</b></summary>
+
+**Hackathons — All as Team Lead**
+| Year | Event | Project |
+|------|-------|---------|
+| 2026 | SupCareers × OpenAI Hackathon | EDDA |
+| 2026 | AIForge Hackathon SMU | ClauseGuard |
+| 2025 | SGHackitRx Hackathon | — |
+| 2025 | DELL SCDF Innovation Challenge | — |
+| 2025 | SIMGE Microsoft Hackathon | — |
+| 2025 | Project Altair Hackathon | — |
+
+**CTF Events**
+| Event | Year | Format |
+|-------|------|--------|
+| Fortinet Blue Team CTF | 2025 | Team |
+| Kaspersky CTF | 2025 | Team Lead |
+| SSMCTF | 2025 | Team Lead |
+| Blahaj CTF | 2024, 2025 | Solo |
+| LearnCTF | — | Solo |
+
+</details>
+
+---
+
+## 🐍 Contribution Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Roh00t/Roh00t/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Roh00t/Roh00t/output/github-snake.svg">
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/Roh00t/Roh00t/output/github-snake-dark.svg">
+</picture>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Roh00t&color=38BDF8&style=flat-square&label=Profile+Views"/>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001233,60:0a1628,100:0d1117&height=120&section=footer" width="100%"/>
