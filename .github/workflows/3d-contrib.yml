@@ -1,4 +1,4 @@
-name: Generate 3D Contribution Calendar
+name: Generate Metrics
 
 on:
   schedule:
@@ -6,29 +6,27 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
+  metrics:
     runs-on: ubuntu-latest
-    name: generate-3d-contribution-graph
-
-    # THIS was missing — without it GITHUB_TOKEN is read-only and git push silently fails
     permissions:
       contents: write
 
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v3
+      - name: Generate isometric contribution calendar
+        uses: lowlighter/metrics@latest
         with:
-          # Ensures the token used here has write access for the subsequent push
-          persist-credentials: true
+          # Your GitHub token — GITHUB_TOKEN is enough for public profile metrics
+          token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate 3D contribution SVGs
-        uses: yoshi389111/github-profile-3d-contrib@0.7.1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
+          # Output file — commits directly to the repo root
+          filename: metrics.plugin.isocalendar.svg
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Commit and push SVGs
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "chore: update 3D contribution graph"
-          file_pattern: "profile-3d-contrib/*.svg"
+          # Only generate the isometric calendar, nothing else
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+          # Visual config
+          config_timezone: Asia/Singapore
+          config_display: large
