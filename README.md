@@ -74,8 +74,7 @@ Interests : Security × AI intersection | Healthcare tech | CTF | Running
 | 💪 | **[PES](https://roh00t.github.io/PES/)** | Portable IPPT trainer using MediaPipe computer vision — spiritual successor to SETS, fully client-side with no data leaving device | MediaPipe, JS, Web APIs | ✅ Live |
 | 🤖 | **[ImplAI](#)** | AI agent automation startup — WhatsApp lead qualification, workflow automation, and staff training for SMEs | Python, LLMs, ManyChat | 🚀 Building |
 | 🕵️ | **[EDDA](https://github.com/Roh00t/EDDA)** | Employer due-diligence agent for job seekers — surfaces company red flags before you sign an offer (SupCareers × OpenAI Hackathon 2026) | AI Agents, Python | 🏆 Hackathon |
-| 🕵️ | **[myResponder+](https://github.com/NTUSIM/DELLSCDFInnovationChallenge2025)** | Advanced Community Role Allocation Engine
- (DELL × SCDF Hackathon 2025) | AI Agents, Python | 🏆 Hackathon |
+| 🕵️ | **[myResponder+](https://github.com/NTUSIM/DELLSCDFInnovationChallenge2025)** | Advanced Community Role Allocation Engine (DELL × SCDF Hackathon 2025) | AI Agents, Python | 🏆 Hackathon |
 | 🛡️ | **[Project Sentinel](https://frontend-production-32cc.up.railway.app/)** | Web-based IDS dashboard — aggregates and classifies raw logs from 3 intrusion detection systems | React, Node, Railway | ✅ Live |
 | ⚠️ | **[Project Safety](https://safeops.figma.site)** | Risk Assessment Management prototype — RAW creation, certification tracking | Figma | ✅ Live |
 | 🔒 | **[PassMan](https://github.com/Roh00t/PersonalProjects/tree/main/Passman)** | AES-encrypted password manager with support for 10,000+ entries | Python | ✅ Built |
