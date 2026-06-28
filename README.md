@@ -130,7 +130,7 @@ Built SETS (Static Exercise Training System) using Python + computer vision → 
 **Hackathons — All as Team Lead**
 | Year | Event | Project |
 |------|-------|---------|
-| 2026 | SupCareers × OpenAI Hackathon | EDDA |
+| 2026 | SupCareers × OpenAI Hackathon | Gavin-AI EDDA |
 | 2026 | AIForge Hackathon SMU | ClauseGuard |
 | 2025 | SGHackitRx Hackathon | — |
 | 2025 | DELL SCDF Innovation Challenge | myResponder+ : Advanced Community Role Allocation Engine |
