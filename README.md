@@ -44,36 +44,24 @@ Interests : Security × AI intersection | Healthcare tech | CTF | Running
 
 ## 🛠️ Tech Stack
 
-**AI / ML**
+**Languages & Frameworks**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,react,js,java,cpp,c,postgres,mysql,sqlite,git,linux&theme=dark&perrow=7"/>
+</p>
 
 **Security Operations**
 
-![Microsoft Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
-![Palo Alto](https://img.shields.io/badge/Palo_Alto_Networks-FA582D?style=flat-square&logo=palo-alto-networks&logoColor=white)
-![Akamai WAF](https://img.shields.io/badge/Akamai_WAF-009BDE?style=flat-square&logo=akamai&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
-![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=flat-square&logo=hackthebox&logoColor=black)
-
-**Development**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=flat-square&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Palo_Alto_Networks-FA582D?style=flat-square&logo=palo-alto-networks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Akamai_WAF-009BDE?style=flat-square&logo=akamai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Trellix_EDR-C00?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=flat-square&logo=hackthebox&logoColor=black"/>
+</p>
 
 ---
 
@@ -81,11 +69,13 @@ Interests : Security × AI intersection | Healthcare tech | CTF | Running
 
 | | Project | Description | Stack | Status |
 |--|---------|-------------|-------|--------|
-| 🤖 | **[Gavin-AI](https://roh00t.github.io/Gavin-AI/)** | Self-hosted multi-tenant AI agent workspace — run isolated agent environments with profiles, tools, and channels per tenant | Python, AI Agents, Multi-tenant | ✅ Live |
+| 🤖 | **[Gavin-AI](#)** | Self-hosted multi-tenant AI agent workspace — run isolated agent environments with profiles, tools, and channels per tenant | Python, AI Agents, Multi-tenant | ✅ Live |
 | 📜 | **[ClauseGuard](https://clauseguard.onrender.com)** | AI employment contract analyser — clause-level risk scoring on Singapore employment contracts, built at AIForge SMU 2026 | FastAPI, Supabase, TokenRouter | ✅ Live |
 | 💪 | **[PES](https://roh00t.github.io/PES/)** | Portable IPPT trainer using MediaPipe computer vision — spiritual successor to SETS, fully client-side with no data leaving device | MediaPipe, JS, Web APIs | ✅ Live |
 | 🤖 | **[ImplAI](#)** | AI agent automation startup — WhatsApp lead qualification, workflow automation, and staff training for SMEs | Python, LLMs, ManyChat | 🚀 Building |
 | 🕵️ | **[EDDA](https://github.com/Roh00t/EDDA)** | Employer due-diligence agent for job seekers — surfaces company red flags before you sign an offer (SupCareers × OpenAI Hackathon 2026) | AI Agents, Python | 🏆 Hackathon |
+| 🕵️ | **[myResponder+](https://github.com/NTUSIM/DELLSCDFInnovationChallenge2025)** | Advanced Community Role Allocation Engine
+ (DELL × SCDF Hackathon 2025) | AI Agents, Python | 🏆 Hackathon |
 | 🛡️ | **[Project Sentinel](https://frontend-production-32cc.up.railway.app/)** | Web-based IDS dashboard — aggregates and classifies raw logs from 3 intrusion detection systems | React, Node, Railway | ✅ Live |
 | ⚠️ | **[Project Safety](https://safeops.figma.site)** | Risk Assessment Management prototype — RAW creation, certification tracking | Figma | ✅ Live |
 | 🔒 | **[PassMan](https://github.com/Roh00t/PersonalProjects/tree/main/Passman)** | AES-encrypted password manager with support for 10,000+ entries | Python | ✅ Built |
@@ -124,6 +114,10 @@ Built SETS (Static Exercise Training System) using Python + computer vision → 
 </p>
 
 <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Roh00t&theme=github-compact&color=38BDF8&line=38BDF8&point=FFFFFF&area=true&area_color=38BDF8&hide_border=true&bg_color=0d1117" width="100%"/>
+</p>
+
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Roh00t&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1&column=7"/>
 </p>
 
@@ -140,7 +134,7 @@ Built SETS (Static Exercise Training System) using Python + computer vision → 
 | 2026 | SupCareers × OpenAI Hackathon | EDDA |
 | 2026 | AIForge Hackathon SMU | ClauseGuard |
 | 2025 | SGHackitRx Hackathon | — |
-| 2025 | DELL SCDF Innovation Challenge | — |
+| 2025 | DELL SCDF Innovation Challenge | myResponder+ : Advanced Community Role Allocation Engine |
 | 2025 | SIMGE Microsoft Hackathon | — |
 | 2025 | Project Altair Hackathon | — |
 
@@ -157,7 +151,16 @@ Built SETS (Static Exercise Training System) using Python + computer vision → 
 
 ---
 
-## 🐍 Contribution Activity
+## 📅 Contribution Calendar
+
+<!-- Generated by GitHub Action: .github/workflows/3d-contrib.yml — run it manually once first -->
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow-animate.svg" alt="3D contribution graph" width="100%"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Roh00t/Roh00t/output/github-snake-dark.svg">
