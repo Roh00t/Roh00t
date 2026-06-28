@@ -33,7 +33,7 @@
 ```
 Location  : Singapore
 Current   : Singtel SOC (Security Analyst, contract ended June 2026)
-Next      : NTU MSc Enterprise AI → Aug 2026
+Next      : Synapxe!!! HOPEFULLY 🙏
 Building  : ImplAI
 Shipped   : ClauseGuard | Gavin-AI | PES | EDDA (hackathon)
 Background: SPF Trainer (Jurong Div) | IBM | Accenture | MHA Innovation Award (SETS)
