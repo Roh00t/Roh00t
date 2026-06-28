@@ -1,0 +1,33 @@
+name: Generate 3D Contribution Calendar
+
+on:
+  schedule:
+    # Runs daily at 6am UTC
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-3d-contribution-graph
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Generate 3D contribution SVGs
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          # Options: profile-green.svg | profile-green-animate.svg
+          #          profile-night-green.svg | profile-night-rainbow.svg
+          #          profile-night-rainbow-animate.svg (RECOMMENDED — animated bars)
+          #          profile-south-season-animate.svg | profile-gitblock.svg
+
+      - name: Commit & push generated SVGs
+        run: |
+          git config user.email "action@github.com"
+          git config user.name "GitHub Action"
+          git add -A profile-3d-contrib/
+          git diff --cached --quiet || git commit -m "chore: update 3D contribution graph"
+          git push
