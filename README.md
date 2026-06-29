@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a1628,100:001233&height=200&section=header&text=Rohit%20Panda&fontSize=52&fontColor=38BDF8&animation=fadeIn&fontAlignY=36&desc=Security%20Analyst%20%7C%20AI%20Builder%20%7C%20Maker&descAlignY=60&descSize=18&descColor=64748B" width="100%"/>
+<p align="center">
+  <img src="./terminal.svg" alt="Terminal" width="720"/>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&multiline=false&random=false&width=620&lines=Security+Analyst+%40+Singtel+SOC+(Sept+2025+%E2%80%93+June+2026);AI+Builder+%7C+Shipped+to+Production;CTF+Competitor+%7C+6x+Hackathon+Team+Lead;MSc+Enterprise+AI+%40+NTU+(Aug+2026);Building%3A+ClauseGuard+%E2%80%A2+ImplAI+%E2%80%A2+EDDA" />
@@ -130,7 +132,7 @@ Built SETS (Static Exercise Training System) using Python + computer vision → 
 **Hackathons — All as Team Lead**
 | Year | Event | Project |
 |------|-------|---------|
-| 2026 | SupCareers × OpenAI Hackathon | Gavin-AI EDDA |
+| 2026 | SupCareers × OpenAI Hackathon | Gavin-AI · EDDA |
 | 2026 | AIForge Hackathon SMU | ClauseGuard |
 | 2025 | SGHackitRx Hackathon | — |
 | 2025 | DELL SCDF Innovation Challenge | myResponder+ : Advanced Community Role Allocation Engine |

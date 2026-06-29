@@ -1,0 +1,77 @@
+<svg viewBox="0 0 720 300" width="720" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<style>
+  .mono { font-family: 'Courier New', Courier, monospace; font-size: 13px; }
+  .a    { animation-duration:16s; animation-iteration-count:infinite; animation-timing-function:linear; }
+
+  @keyframes t1  { 0%,2%  {opacity:0} 4%  {opacity:1} 69%{opacity:1} 81%{opacity:0} 100%{opacity:0} }
+  @keyframes t2  { 0%,6%  {opacity:0} 8%  {opacity:1} 69%{opacity:1} 81%{opacity:0} 100%{opacity:0} }
+  @keyframes t3  { 0%,11% {opacity:0} 13% {opacity:1} 69%{opacity:1} 81%{opacity:0} 100%{opacity:0} }
+  @keyframes t4  { 0%,14% {opacity:0} 16% {opacity:1} 69%{opacity:1} 81%{opacity:0} 100%{opacity:0} }
+  @keyframes t5  { 0%,22% {opacity:0} 24% {opacity:1} 69%{opacity:1} 81%{opacity:0} 100%{opacity:0} }
+  @keyframes t6  { 0%,27% {opacity:0} 29% {opacity:1} 69%{opacity:1} 81%{opacity:0} 100%{opacity:0} }
+  @keyframes t7  { 0%,29% {opacity:0} 31% {opacity:1} 69%{opacity:1} 81%{opacity:0} 100%{opacity:0} }
+  @keyframes t8  { 0%,32% {opacity:0} 34% {opacity:1} 69%{opacity:1} 81%{opacity:0} 100%{opacity:0} }
+  @keyframes t9  { 0%,34% {opacity:0} 36% {opacity:1} 69%{opacity:1} 81%{opacity:0} 100%{opacity:0} }
+  @keyframes t10 { 0%,39% {opacity:0} 41% {opacity:1} 69%{opacity:1} 81%{opacity:0} 100%{opacity:0} }
+  @keyframes blink {
+    0%,41%  {opacity:0}
+    43%,49% {opacity:1}
+    50%,56% {opacity:0}
+    57%,63% {opacity:1}
+    64%,69% {opacity:0}
+    81%,100%{opacity:0}
+  }
+
+  .l1  {animation-name:t1 } .l2  {animation-name:t2 } .l3  {animation-name:t3 }
+  .l4  {animation-name:t4 } .l5  {animation-name:t5 } .l6  {animation-name:t6 }
+  .l7  {animation-name:t7 } .l8  {animation-name:t8 } .l9  {animation-name:t9 }
+  .l10 {animation-name:t10} .cur {animation-name:blink}
+</style>
+</defs>
+
+<!-- Window chrome -->
+<rect width="720" height="300" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+<rect width="720" height="36" rx="10" fill="#161b22"/>
+<rect y="26" width="720" height="10" fill="#161b22"/>
+
+<!-- Traffic lights -->
+<circle cx="22" cy="18" r="6" fill="#ff5f56"/>
+<circle cx="44" cy="18" r="6" fill="#ffbd2e"/>
+<circle cx="66" cy="18" r="6" fill="#27c93f"/>
+<text x="360" y="22" text-anchor="middle" fill="#484f58" class="mono" font-size="12">rohit@github — bash</text>
+
+<!-- Last login -->
+<text x="16" y="65" fill="#484f58" class="mono a l1">Last login: Mon Jun 29 2026 on ttys001</text>
+
+<!-- $ whoami -->
+<text x="16" y="92" class="mono a l2">
+  <tspan fill="#22c55e">rohit@github</tspan><tspan fill="#6e7681">:</tspan><tspan fill="#38BDF8">~</tspan><tspan fill="#6e7681">$ </tspan><tspan fill="#e6edf3">whoami</tspan>
+</text>
+
+<!-- Response: name + title -->
+<text x="16" y="114" fill="#38BDF8" font-weight="bold" class="mono a l3">Rohit Panda  —  Security Analyst  |  AI Builder  |  Maker</text>
+
+<!-- Response: current status — updated to reflect Synapxe target + ImplAI -->
+<text x="16" y="134" fill="#484f58" class="mono a l4">Singapore  •  Targeting: Synapxe  •  Building: ImplAI</text>
+
+<!-- $ ./achievements.sh -->
+<text x="16" y="162" class="mono a l5">
+  <tspan fill="#22c55e">rohit@github</tspan><tspan fill="#6e7681">:</tspan><tspan fill="#38BDF8">~</tspan><tspan fill="#6e7681">$ </tspan><tspan fill="#e6edf3">./achievements.sh</tspan>
+</text>
+
+<!-- Achievements -->
+<text x="16" y="184" fill="#22c55e" class="mono a l6">[&#x2713;] MHA Innovation Award  —  SETS  •  SPF Jurong Division</text>
+<text x="16" y="206" fill="#22c55e" class="mono a l7">[&#x2713;] Production AI deployed  •  Singtel SOC  (2025 &#x2013; 2026)</text>
+<text x="16" y="228" fill="#22c55e" class="mono a l8">[&#x2713;] 6x Hackathon Team Lead  •  5+ CTF Events</text>
+<text x="16" y="250" fill="#22c55e" class="mono a l9">[&#x2713;] Shipped:  ClauseGuard  •  Gavin-AI  •  PES  •  EDDA</text>
+
+<!-- Final prompt -->
+<text x="16" y="278" class="mono a l10">
+  <tspan fill="#22c55e">rohit@github</tspan><tspan fill="#6e7681">:</tspan><tspan fill="#38BDF8">~</tspan><tspan fill="#6e7681">$ </tspan>
+</text>
+
+<!-- Blinking cursor (x = 16 + 16chars × 7.8px ≈ 141) -->
+<rect x="141" y="264" width="8" height="15" fill="#38BDF8" class="a cur"/>
+
+</svg>
