@@ -72,7 +72,7 @@ Interests : Security × AI intersection | Healthcare tech | CTF | Running
 | | Project | Description | Stack | Status |
 |--|---------|-------------|-------|--------|
 | 🤖 | **[Gavin-AI](https://roh00t.github.io/Gavin-AI/)** | Self-hosted multi-tenant AI agent workspace — run isolated agent environments with profiles, tools, and channels per tenant | Python, AI Agents, Multi-tenant | ✅ Live |
-| 📜 | **[ClauseGuard](https://clauseguard.onrender.com)** | AI employment contract analyser — clause-level risk scoring on Singapore employment contracts, built at AIForge SMU 2026 | FastAPI, Supabase, TokenRouter | ✅ Live |
+| 📜 | **[ClauseGuard](https://clausegaurd-hm9g.onrender.com/)** | AI employment contract analyser — clause-level risk scoring on Singapore employment contracts, built at AIForge SMU 2026 | FastAPI, Supabase, TokenRouter | ✅ Live |
 | 💪 | **[PES](https://roh00t.github.io/PES/)** | Portable IPPT trainer using MediaPipe computer vision — spiritual successor to SETS, fully client-side with no data leaving device | MediaPipe, JS, Web APIs | ✅ Live |
 | 🏗️ | **[ImplAI](#)** | AI agent automation startup — WhatsApp lead qualification, workflow automation, and staff training for SMEs | Python, LLMs, ManyChat | 🚀 Building |
 | 🕵️ | **[EDDA](https://github.com/Roh00t/EDDA)** | Employer due-diligence agent for job seekers — surfaces company red flags before you sign an offer (SupCareers × OpenAI Hackathon 2026) | AI Agents, Python | 🏆 Hackathon |
