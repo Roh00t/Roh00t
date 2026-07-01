@@ -98,7 +98,7 @@ Validated National Billing System (NBS) rollout across 20+ Singapore healthcare 
 Led 10-person team deploying NGEMR and Electronic Collection Modules for hospitals in collaboration with Synapxe.
 
 **🚔 Singapore Police Force — Trainer, Jurong Division** `Jul 2022 – May 2024`  
-Built SETS (Static Exercise Training System) using Python + computer vision → **MHA Innovation Award**. Developed RPA automation reducing repetitive workloads by ~60%. Commissioner's Award recipient.
+Help build SETS (Static Exercise Training System) using Python + computer vision → **MHA Innovation Award**. Developed RPA automation reducing repetitive workloads by ~60%. Commissioner's Award recipient.
 
 ---
 
