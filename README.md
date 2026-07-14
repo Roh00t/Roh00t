@@ -33,9 +33,13 @@
 ## 🎓 Certifications
 
 <p align="center">
-  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="d2a45bcc-e3c7-4774-badb-0dc9cc749947" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+  <a href="https://www.credly.com/badges/d2a45bcc-e3c7-4774-badb-0dc9cc749947">
+    <img src="https://images.credly.com/images/4d4693bb-530e-4bca-9327-de07f3aa2348/linkedin_thumb_image.png" height="120"/>
+  </a>
   &nbsp;
-  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="ed81edaf-eb25-425b-8abe-9086a9e0561d" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+  <a href="https://www.credly.com/badges/ed81edaf-eb25-425b-8abe-9086a9e0561d">
+    <img src="https://images.credly.com/images/a2790314-008a-4c3d-9553-f5e84eb359ba/linkedin_thumb_image.png" height="120"/>
+  </a>
 </p>
 
 ---
