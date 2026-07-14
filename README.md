@@ -30,12 +30,22 @@
 
 ---
 
+## 🎓 Certifications
+
+<p align="center">
+  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="d2a45bcc-e3c7-4774-badb-0dc9cc749947" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+  &nbsp;
+  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="ed81edaf-eb25-425b-8abe-9086a9e0561d" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+</p>
+
+---
+
 ## `$ whoami`
 
 ```
 Location  : Singapore
 Current   : Singtel SOC (Security Analyst, contract ended June 2026)
-Next      : Synapxe!!! HOPEFULLY 🙏
+Next      : NTU MSc in Artificial Intelligence
 Building  : ImplAI
 Shipped   : ClauseGuard | Gavin-AI | PES | EDDA (hackathon)
 Background: SPF Trainer (Jurong Div) | IBM | Accenture | MHA Innovation Award (SETS)
