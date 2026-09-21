@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&multiline=false&random=false&width=620&lines=Security+Analyst+%40+Singtel+SOC+(Sept+2025+%E2%80%93+June+2026);AI+Builder+%7C+Shipped+to+Production;CTF+Competitor+%7C+6x+Hackathon+Team+Lead;MSc+Enterprise+AI+%40+NTU+(Aug+2026);Building%3A+ClauseGuard+%E2%80%A2+ImplAI+%E2%80%A2+EDDA" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&multiline=false&random=false&width=640&lines=Security+Analyst+%40+Singtel+SOC+(Sept+2025+%E2%80%93+June+2026);AI+Builder+%7C+Shipped+to+Production;CTF+Competitor+%7C+7x+Hackathon+Team+Lead;SDTH+Killswitch+%E2%80%94+Counter-UAS+Targeting+Brain;MSc+Enterprise+AI+%40+NTU+(Aug+2026);Building%3A+Killswitch+%E2%80%A2+ClauseGuard+%E2%80%A2+ImplAI+%E2%80%A2+EDDA" />
 </p>
 
 <p align="center">
@@ -19,13 +19,15 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/6_Hackathons-Team_Lead-38BDF8?style=flat-square"/>
+  <img src="https://img.shields.io/badge/7_Hackathons-Team_Lead-38BDF8?style=flat-square"/>
   &nbsp;
   <img src="https://img.shields.io/badge/5+_CTF_Events-Competitor-F472B6?style=flat-square"/>
   &nbsp;
   <img src="https://img.shields.io/badge/SETS-MHA_Innovation_Award_🏆-F59E0B?style=flat-square"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Production_AI-Singtel_SOC-22C55E?style=flat-square"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/SDTH_2026-Killswitch_🛰️-38BDF8?style=flat-square"/>
 </p>
 
 ---
@@ -48,9 +50,9 @@
 
 ```
 Location  : Singapore
-Current   : Singtel SOC (Security Analyst, contract ended June 2026)
-Next      : NTU MSc in Artificial Intelligence
-Building  : ImplAI
+Current   : NTU MSc in Enterprise AI (started Aug 2026)
+Prev      : Singtel SOC (Security Analyst, Sept 2025 – June 2026)
+Building  : ImplAI | Killswitch (Counter-UAS targeting brain → exploring startup)
 Shipped   : ClauseGuard | Gavin-AI | PES | EDDA (hackathon)
 Background: SPF Trainer (Jurong Div) | IBM | Accenture | MHA Innovation Award (SETS)
 Interests : Security × AI intersection | Healthcare tech | CTF | Running
@@ -85,6 +87,7 @@ Interests : Security × AI intersection | Healthcare tech | CTF | Running
 
 | | Project | Description | Stack | Status |
 |--|---------|-------------|-------|--------|
+| 🛰️ | **[Killswitch — SDTH](https://github.com/Roh00t/SDTH-Killswitch-Demo)** | Software-Defined Directed Energy Counter-UAS node — a portable targeting *brain* (detect → track → predict → aim → human gate) running today on a webcam, an ESP32 and a ~$200 gimbal, designed to re-host onto a military beam director without a rewrite. Firmware-enforced safety (deadman timer, burn ceiling, checksummed arming). Team project (Killswitch, SDTH 2026); I own the detection / tracking / prediction stack | Python, YOLOv11, ByteTrack, Kalman, ESP32/C++, MQTT | 🏆 Hackathon → 🚀 exploring startup |
 | 🤖 | **[Gavin-AI](https://roh00t.github.io/Gavin-AI/)** | Self-hosted multi-tenant AI agent workspace — run isolated agent environments with profiles, tools, and channels per tenant | Python, AI Agents, Multi-tenant | ✅ Live |
 | 📜 | **[ClauseGuard](https://clausegaurd-hm9g.onrender.com/)** | AI employment contract analyser — clause-level risk scoring on Singapore employment contracts, built at AIForge SMU 2026 | FastAPI, Supabase, TokenRouter | ✅ Live |
 | 💪 | **[PES](https://roh00t.github.io/PES/)** | Portable IPPT trainer using MediaPipe computer vision — spiritual successor to SETS, fully client-side with no data leaving device | MediaPipe, JS, Web APIs | ✅ Live |
@@ -97,6 +100,19 @@ Interests : Security × AI intersection | Healthcare tech | CTF | Running
 | 🦠 | **[Malware Detection AI](https://github.com/Roh00t/PersonalProjects/tree/main/Malware_Detection_With_AI)** | Binary malware classification pipeline — Random Forest + XGBoost on PE file features | scikit-learn, XGBoost | ✅ Built |
 | 🎵 | **[SpotifySecurityExt](https://github.com/Roh00t/PersonalProjects/tree/main/SpotifySecurityExt)** | Scans Spotify ad URLs via VirusTotal API — React frontend with threat result display | React, VirusTotal API | ✅ Built |
 | 🧠 | **[AI IDS](https://github.com/Roh00t/PersonalProjects/tree/main/AI_IDS_Project)** | Supervised ML IDS using Scapy — real-time packet classification for threat detection | Scapy, scikit-learn | ✅ Built |
+| 🕊️ | **[Nightingale](#)** | 72-hour candidate build — shared clinical care-note web app (Nightingale AI challenge) | Web app | 🏆 Candidate build |
+
+---
+
+## 🎓 NTU MSc Projects (2026)
+
+*Coursework and academic builds from the MSc in Enterprise AI — team size and my role stated for each.*
+
+| | Project | Description | Stack | Role |
+|--|---------|-------------|-------|------|
+| 📑 | **[MediExtract](https://github.com/Roh00t/PE201_Project_G2606819F)** | Grounded clinical-note extraction — pulls medication / dose / frequency / allergy from dictated notes, with a verbatim-evidence gate that blanks any field it cannot quote back to the source, and deterministic abstention instead of LLM guessing | Python, Gemini 2.5 Flash, OpenRouter | Individual (PE6202) |
+| 🗾 | **[Japan Itinerary Planner](https://github.com/Roh00t/203-Grp1-Project)** | Generative + agentic trip planner whose pass-vs-tickets verdict is computed by a deterministic calculator (never guessed by the LLM), with every factual claim carrying a dated citation | Gemini, Node/FastAPI, rule-based RAG | Team of 6 (PE6203) — Module 1/2 prompts + calculator logic |
+| ⚕️ | **[Insurance Claim Agent](https://github.com/Roh00t/PE201_A2_Group6)** | Hand-rolled ReAct agent for health-insurance claim first response — approve / request-document / escalate — with in-code guardrails, a gated append-only decision ledger, and a live multi-model evaluation battery | Python (standard library only) | Team of 6 (PE6201) — loop, tools, guardrails |
 
 ---
 
@@ -146,6 +162,7 @@ Help build SETS (Static Exercise Training System) using Python + computer vision
 **Hackathons — All as Team Lead**
 | Year | Event | Project |
 |------|-------|---------|
+| 2026 | Singapore Defence Tech Hackathon (SDTH) | Killswitch — Counter-UAS targeting brain |
 | 2026 | SupCareers × OpenAI Hackathon | Gavin-AI · EDDA |
 | 2026 | AIForge Hackathon SMU | ClauseGuard |
 | 2025 | SGHackitRx Hackathon | — |
