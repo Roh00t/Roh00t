@@ -75,8 +75,7 @@ Interests : Security × AI | Embodied AI & robotics | Healthcare tech | CTF | Te
 | **Now** | **PES Progress** — free tier in build, waitlist open, recruiting IPPT-cleared pilot users (NSFs, NSmen, Regulars) |
 | **Dec 2026 – May 2027** | **Embodied AI Intern @ Jiwa Robotics** — ML model training, data collection & cleaning, robot "neural brain", ROS 2 / Open RMF |
 | **Dec 2026 – Jan 2027** | AWS Solutions Architect – Associate · Claude Certified Architect – Foundations |
-| **2027** | Google Professional ML Engineer · MSc completion |
-| **Background** | Lumino AIxTech Master phase (12-month track) |
+| **2027** | MSc completion |
 
 ---
 
@@ -112,10 +111,10 @@ Interests : Security × AI | Embodied AI & robotics | Healthcare tech | CTF | Te
 | 🤖 | **[Gavin-AI](https://roh00t.github.io/Gavin-AI/)** | Self-hosted multi-tenant AI agent workspace — run isolated agent environments with profiles, tools, and channels per tenant | Python, AI Agents, Multi-tenant | ✅ Live |
 | 📜 | **[ClauseGuard](https://clausegaurd-hm9g.onrender.com/)** | AI employment contract analyser — clause-level risk scoring on Singapore employment contracts, built at AIForge SMU 2026 | FastAPI, Supabase, TokenRouter | ✅ Live |
 | ✈️ | **[Flight Disruption Negotiator](https://acasiahackathon.vercel.app/)** | Multi-agent system where ATC, Pilot and Ground agents negotiate flight disruptions, grounded in 2015 US DOT delay data — Airbus AI & Aerospace track, Autonomous SG 2026 ([code](https://github.com/Roh00t/Acasia_Hackathon)) | AI Agents, Vercel | 🏆 Hackathon - ✅ Live |
-| 🏢 | **[Retrofit Radar](https://roh00t.github.io/MatrixNotFound/)** | Building energy-consumption prediction tool — **1st place**, Learn to Hack: MATLAB Edition 2026 (team of 3) | MATLAB | 🥇 Hackathon winner |
+| 🏢 | **Retrofit Radar** | Building energy-consumption prediction tool — **1st place**, Learn to Hack: MATLAB Edition 2026 (team of 3) | MATLAB | 🥇 Hackathon winner |
 | 🕵️ | **[EDDA](https://github.com/Roh00t/EDDA)** | Employer due-diligence agent for job seekers — surfaces company red flags before you sign an offer (SupCareers × OpenAI Hackathon 2026) | AI Agents, Python | 🏆 Hackathon |
 | 🚨 | **[myResponder+](https://github.com/NTUSIM/DELLSCDFInnovationChallenge2025)** | Advanced Community Role Allocation Engine (DELL × SCDF Hackathon 2025) | AI Agents, Python | 🏆 Hackathon |
-| 🕊️ | **[Nightingale](https://nightingale-august-frontend-6ktv.vercel.app/login)** | 72-hour candidate build — shared clinical care-note web app (Nightingale AI challenge) | Web app | 🏆 Candidate build |
+| 🕊️ | **[Nightingale](#)** | 72-hour candidate build — shared clinical care-note web app (Nightingale AI challenge) | Web app | 🏆 Candidate build |
 | 🛡️ | **[Project Sentinel](https://frontend-production-32cc.up.railway.app/)** | Web-based IDS dashboard — aggregates and classifies raw logs from 3 intrusion detection systems | React, Node, Railway | ✅ Live |
 | ⚠️ | **[Project Safety](https://safeops.figma.site)** | Risk Assessment Management prototype — RAW creation, certification tracking | Figma | ✅ Live |
 | 🔒 | **[PassMan](https://github.com/Roh00t/PersonalProjects/tree/main/Passman)** | AES-encrypted password manager with support for 10,000+ entries | Python | ✅ Built |
