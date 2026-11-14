@@ -59,6 +59,7 @@ Internship: Jiwa Robotics — Embodied AI Intern (Dec 2026 – May 2027)
 Prev      : Singtel SOC (Security Analyst, Sept 2025 – June 2026)
 Building  : Killswitch (counter-UAS tracking brain) | PES Progress (CV fitness trainer)
 Shipped   : ClauseGuard | Gavin-AI | PES | EDDA | Retrofit Radar (hackathon, 1st place)
+Learning  : Embodied AI — LeRobot, VLA models (AgiBot GO-1), imitation learning, ROS 2
 Exploring : Voice AI for ageing-in-place | Tennis match-analysis CV
 Background: SPF Trainer (Jurong Div) | IBM | Accenture | MHA Innovation Award (SETS)
 Interests : Security × AI | Embodied AI & robotics | Healthcare tech | CTF | Tennis | Martial arts | Running
@@ -99,6 +100,19 @@ Interests : Security × AI | Embodied AI & robotics | Healthcare tech | CTF | Te
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white"/>
   <img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=flat-square&logo=hackthebox&logoColor=black"/>
 </p>
+
+**📚 Currently Learning — Embodied AI & Robotics**
+
+*Preparing for the Jiwa Robotics internship. Learning, not yet shipped — these move into the stack above once I've used them on real robots.*
+
+| Area | What I'm working through |
+|------|--------------------------|
+| Robot learning data | LeRobot dataset format — loading, visualising and quality-checking episodes (camera streams, states, actions) |
+| Vision-language-action models | AgiBot World dataset and the open GO-1 codebase — pretrained checkpoints, fine-tuning, open-loop evaluation |
+| Data capture | Handheld and egocentric demonstration capture, and converting recordings into training inputs |
+| Imitation learning | Action chunking, demonstration consistency, how policy success rate is measured |
+| Robot middleware | ROS 2 fundamentals — nodes, topics, bag recording, coordinate frames |
+| Infrastructure | Linux, Docker, GPU setup and networking for robot deployments |
 
 ---
 
