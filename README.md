@@ -57,7 +57,7 @@ Location  : Singapore
 Current   : NTU MSc in Enterprise AI (2026 – 2027)
 Internship: Jiwa Robotics — Embodied AI Intern (Dec 2026 – May 2027)
 Prev      : Singtel SOC (Security Analyst, Sept 2025 – June 2026)
-Building  : Killswitch (counter-UAS tracking brain) | PES Progress (CV fitness trainer)
+Building  : Killswitch (counter-UAS tracking brain) | Physical Exercise Systems (OpenCV fitness trainer)
 Volunteer : ReFurbish @ Better.sg — security review for a furniture-donation matching platform
 Shipped   : ClauseGuard | Gavin-AI | PES | EDDA | Retrofit Radar (hackathon, 1st place)
 Learning  : Embodied AI — LeRobot, VLA models (AgiBot GO-1), imitation learning, ROS 2
@@ -74,7 +74,7 @@ Interests : Security × AI | Embodied AI & robotics | Healthcare tech | CTF | Te
 |------|------|
 | **Now** | MSc in Enterprise AI @ NTU — agentic AI, AI-driven cybersecurity, enterprise automation |
 | **Now** | **Killswitch** — building a tracking-first counter-UAS prototype as an independent startup; NTU GET Innovation Grant application submitted |
-| **Now** | **PES Progress** — free tier in build, waitlist open, recruiting IPPT-cleared pilot users (NSFs, NSmen, Regulars) |
+| **Now** | **Physical Exercise System** — free tier in build, waitlist open, recruiting IPPT-cleared pilot users (NSFs, NSmen, Regulars) |
 | **Now** | **ReFurbish** (Better.sg, volunteer) — reviewing the Firebase access rules and data model of a furniture-donation matching platform before it handles real household data |
 | **Dec 2026 – May 2027** | **Embodied AI Intern @ Jiwa Robotics** — ML model training, data collection & cleaning, robot "neural brain", ROS 2 / Open RMF |
 | **Dec 2026 – Jan 2027** | AWS Solutions Architect – Associate · Claude Certified Architect – Foundations |
@@ -123,7 +123,7 @@ Interests : Security × AI | Embodied AI & robotics | Healthcare tech | CTF | Te
 | | Project | Description | Stack | Status |
 |--|---------|-------------|-------|--------|
 | 🛰️ | **[Killswitch](https://kill-switch-website.vercel.app/)** | Counter-UAS targeting *brain* — detect → track → predict → aim → human gate — built "track first, mount anything": the tracking stack is the product, effectors are modular. Runs today on a webcam, an ESP32 and a ~$200 gimbal, designed to re-host without a rewrite. Firmware-enforced safety (deadman timer, burn ceiling, checksummed arming). Started at SDTH 2026, now an independent team of four; I lead and own software & safety, including the detection / tracking / prediction stack | Python, YOLOv11, ByteTrack, Kalman, ESP32/C++, MQTT | 🏆 SDTH 2026 → 🚀 Building as startup |
-| 💪 | **[PES Progress](https://roh00t.github.io/PES/)** | Computer-vision IPPT trainer — camera rep counting for push-ups and sit-ups, 60-second test mode with voice cues, GPS lap tracker for the 2.4 km run, AI coach. Fully client-side, no video leaves the device. Spiritual successor to SETS; now being built out as a product | MediaPipe, JS, Web APIs | ✅ Live → 🚀 Building as startup |
+| 💪 | **[PES](https://physical-exercise-system.vercel.app/index.html)** | Computer-vision IPPT trainer — camera rep counting for push-ups and sit-ups, 60-second test mode with voice cues, GPS lap tracker for the 2.4 km run, AI coach. Fully client-side, no video leaves the device. Spiritual successor to SETS; now being built out as a product | MediaPipe, JS, Web APIs | ✅ Live → 🚀 Building as startup |
 | 🛋️ | **ReFurbish** (Better.sg) | Volunteer tech-for-good platform matching donated furniture and appliances with households in need, replacing coordination over social-worker WhatsApp groups. Team project; I cover security — threat-modelling the Firebase setup and reviewing access rules and how sensitive household data is stored, before real data goes in | React, Firebase (Auth, Firestore, Storage) | 🔍 MVP in build · security review in progress |
 | 🤖 | **[Gavin-AI](https://roh00t.github.io/Gavin-AI/)** | Self-hosted multi-tenant AI agent workspace — run isolated agent environments with profiles, tools, and channels per tenant | Python, AI Agents, Multi-tenant | ✅ Live |
 | 📜 | **[ClauseGuard](https://clausegaurd-hm9g.onrender.com/)** | AI employment contract analyser — clause-level risk scoring on Singapore employment contracts, built at AIForge SMU 2026 | FastAPI, Supabase, TokenRouter | ✅ Live |
